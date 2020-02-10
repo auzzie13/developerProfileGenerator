@@ -1,12 +1,22 @@
 # developerProfileGenerator
 
-Upon launching the application, the user will be prompted for their github username.  A resume pdf will then be generated and saved with the following:
-    Name
-    Github Username
-    Profile Image
-    Location
-    Github page link
-    Blog link
-    Number of followers
-    Number of repos
-    Bio
+repoURL: https://github.com/auzzie13/developerProfileGenerator
+
+
+## Description
+
+A command-line application that dynamically generates a PDF profile from a GitHub username. The application will be invoked with the following command:
+
+<node index.js>
+
+## User Story
+
+AS A product manager
+
+I WANT a developer profile generator
+
+SO THAT I can easily prepare reports for stakeholders
+
+## Languages
+
+-Node JS -Javascript
